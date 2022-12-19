@@ -20,6 +20,11 @@ Some resources: </br>
 - [Black Box - a Paper & Pencil deductive strategy game for 2 players (Pen and Paper)
 ](https://www.youtube.com/watch?v=aF9OU1_Bi4g)
 
+<img src="./Media/Screenshot%202022-12-19%20at%201.33.45%20PM.png" width = "800">
+<img src="./Media/Screenshot%202022-12-19%20at%201.35.57%20PM.png" width = "800">
+
+
+
 
 
 ## 👩🏻‍💻 Coursework 1 – COMP2209 Programming III 
@@ -32,6 +37,7 @@ Prepared by Dr. Kristo Radion Purba (University of Southampton, Malaysia), adapt
 
 **💯 Weighting** 20% of module mark
 
+<img src="./Media/Screenshot%202022-12-19%20at%201.36.08%20PM.png" width = "800">
 
 ### Challenge 1: Calculate All Interactions [50 Marks]
 The first challenge requires you to define a function
