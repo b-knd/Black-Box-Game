@@ -8,7 +8,7 @@ This is a programming coursework completed during my Year 2 in [BSc. Computer Sc
 **Module:** [COMP2209 Programming III](https://www.southampton.ac.uk/courses/modules/comp2209)
 
 This repository contains
-- [**my solution code**](./blackBoxSolver.hs)</br>
+- [**my solution code**](./blackBoxSolver.hs) and [**coursework report**](./courseworkReport.md)</br>
 - [**introduction to black box game**](#-introduction-to-black-box-game)</br>
 - [**coursework specification**](#-coursework-1--comp2209-programming-iii)
 
