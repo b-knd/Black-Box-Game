@@ -3,7 +3,7 @@
 # Black-Box-Game
 
 ## 📌 About
-This is a programming coursework completed during my Year 2 in [BSc. Computer Science, University of Southampton Malaysia](https://www.southampton.ac.uk/my/undergraduate/courses/bsc-computer-science.page)
+This is a programming coursework completed during my Year 2 of [BSc. Computer Science in the University of Southampton Malaysia](https://www.southampton.ac.uk/my/undergraduate/courses/bsc-computer-science.page)
 
 **Module:** [COMP2209 Programming III](https://www.southampton.ac.uk/courses/modules/comp2209)
 
